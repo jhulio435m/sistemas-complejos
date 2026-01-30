@@ -1,0 +1,24 @@
+site_name: Sistemas Complejos
+theme:
+  name: material
+  palette: 
+    scheme: slate   # Modo oscuro por defecto (¡se ve más "hacker"!)
+    primary: deep purple
+    accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+
+nav:
+  - Inicio: index.md
+  - 'Recursos Generales': recursos/index.md
+  #- 'Sistema de Gestión ISO':
+  #  - 'Introducción': 01-gestion-iso/index.md
+  #- 'Metodología Sistemica Blanda':
+  #  - 'Conceptos': 02-metodologia-blanda/index.md
+  #- 'Dinámica de Sistemas':
+  #  - 'Teoría': 03-dinamica-sistemas/index.md
+  #- 'Cibernética Organizacional':
+  #  - 'Modelo VSM': 04-cibernetica/index.md
+  #- 'Recursos extra':
+  #  - 'Modelo VSM': recursos/index.md
