@@ -11,9 +11,9 @@ theme:
 
 nav:
   - Inicio: index.md
-  - 'Recursos Generales': recursos/index.md
-  #- 'Sistema de Gestión ISO':
-  #  - 'Introducción': 01-gestion-iso/index.md
+  - 'Sistema de Gestión ISO':
+    - 'Introducción': 01-gestion-iso/index.md
+    - 'Normativas': 01-gestion-iso/normativas.md
   #- 'Metodología Sistemica Blanda':
   #  - 'Conceptos': 02-metodologia-blanda/index.md
   #- 'Dinámica de Sistemas':
@@ -22,3 +22,4 @@ nav:
   #  - 'Modelo VSM': 04-cibernetica/index.md
   #- 'Recursos extra':
   #  - 'Modelo VSM': recursos/index.md
+  - 'Recursos Generales': recursos/index.md
