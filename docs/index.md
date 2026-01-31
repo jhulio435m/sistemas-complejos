@@ -21,5 +21,4 @@ Recursos de uso general para todos los cursos.
 
 ### Estado del Repositorio
 * **Última actualización:** Enero 2026
-* **Maintainer:** Jhulio Morán
-* **Contribución:** Para agregar archivos, realice un *Pull Request* a la rama `main` colocando los binarios en la carpeta `/assets` correspondiente.
+* **Contribución:** Para agregar archivos, realice un *Pull Request* a la rama `master`
