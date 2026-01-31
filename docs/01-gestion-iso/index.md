@@ -7,9 +7,10 @@ Centralizar recursos para el estudio, implementación y auditoría de sistemas b
 
 ## Biblioteca de Recursos
 
-| Colección | Contenido | Acceso |
+| Colección | Contenido | Acceso a Recursos |
 | :--- | :--- | :--- |
-| **Estándares ISO** | Repositorio de normas vigentes (9001, 14001, 45001, 27001) y guías técnicas de ingeniería. | [➡️ Ir a Normativas](normativas.md) |
+| **Estándares ISO** | Repositorio de normas vigentes (9001, 14001, 45001, 27001) y guías técnicas de ingeniería. | [Consultar](normativas.md) |
+| **Bibliografía** | Libros fundamentales sobre Sistemas Integrados de Gestión. | [Consultar](bibliografia.md) |
 
 ## Alcance Técnico
 La documentación abarca la integración de los siguientes pilares normativos:

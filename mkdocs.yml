@@ -1,10 +1,20 @@
 site_name: Sistemas Complejos
 theme:
   name: material
-  palette: 
-    scheme: slate   # Modo oscuro por defecto (¡se ve más "hacker"!)
-    primary: deep purple
-    accent: teal
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+
+    - scheme: slate
+      primary: blue grey
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo claro
   features:
     - navigation.tabs
     - navigation.sections
@@ -14,12 +24,16 @@ nav:
   - 'Sistema de Gestión ISO':
     - 'Introducción': 01-gestion-iso/index.md
     - 'Normativas': 01-gestion-iso/normativas.md
-  #- 'Metodología Sistemica Blanda':
-  #  - 'Conceptos': 02-metodologia-blanda/index.md
-  #- 'Dinámica de Sistemas':
-  #  - 'Teoría': 03-dinamica-sistemas/index.md
-  #- 'Cibernética Organizacional':
-  #  - 'Modelo VSM': 04-cibernetica/index.md
-  #- 'Recursos extra':
-  #  - 'Modelo VSM': recursos/index.md
-  - 'Recursos Generales': recursos/index.md
+    - 'Bibliografía': 01-gestion-iso/bibliografia.md
+  - 'Metodología Blanda (SSM)':
+      - 'Introducción': 02-metodologia-blanda/index.md
+      - 'Bibliografía': 02-metodologia-blanda/bibliografia.md
+  - 'Dinámica de Sistemas':
+    - 'Introducción': 03-dinamica-sistemas/index.md
+    - 'Bibliografía': 03-dinamica-sistemas/bibliografia.md
+  - 'Cibernética Organizacional':
+    - 'Introducción': 04-cibernetica/index.md
+    - 'Bibliografía': 04-cibernetica/bibliografia.md
+  - 'Recursos Generales':
+    - 'Introducción': 05-recursos/index.md
+    - 'Bibliografía': 05-recursos/bibliografia.md
