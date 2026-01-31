@@ -22,10 +22,3 @@
 | **Burge Hughes Walsh** | Guías de 1 página (N2, Context Diagrams, QFD, FMEA) | [Herramientas](https://www.burgehugheswalsh.co.uk/systems-engineering/tools.aspx) |
 | **FDOT (Florida)** | Checklists (ConOps, V&V, Requirements), Templates SEMP | [Recursos ITS](https://www.fdot.gov/traffic/its/projects-deploy/semp.shtm) |
 | **MITRE** | Guías técnicas (Risk Mgmt, Capability Analysis) | [SE Guide](https://www.mitre.org/news-insights/publication/systems-engineering-guide-introduction-risk-management) |
-
-## 4. Búsqueda Bibliográfica (Queries)
-Enlaces de búsqueda directa para recuperación de textos.
-
-* **PMBOK 7th Ed:** [Buscar PDF](https://google.com/search?q=PMBOK+7th+edition+filetype:pdf)
-* **Stafford Beer (Brain of the Firm):** [Buscar PDF](https://google.com/search?q=Brain+of+the+Firm+Stafford+Beer+filetype:pdf)
-* **Checkland (Systems Thinking):** [Buscar PDF](https://google.com/search?q=Systems+Thinking+Systems+Practice+Checkland+filetype:pdf)
