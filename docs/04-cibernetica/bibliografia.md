@@ -7,12 +7,12 @@ Recopilación de obras fundamentales para el estudio de la Cibernética Organiza
 
 | Título | Año | Enfoque | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Cybernetics and Management** | 1959 | Introduce la ciencia de la cibernética a los gerentes. | [☁️ Ver en Drive](https://reader.z-lib.sk/read/7fa2eb437233eac364bbfffed30b3ec5d67d84db9f869ad208ca593dd0677d1c/2083096/51452b/cybernetics-and-management.html?client_key=1fFLi67gBrNRP1j1iPy1&extension=pdf&signature=a554ab9880329c2869edb390f5413e3d39c2ed292df5da02ef16e4d939e89e3d) |
-| **Decision and Control** | 1966 | Abarca la investigación de operaciones y la cibernética de gestión. | [☁️ Ver en Drive](https://z-lib.sk/book/1065433/be330a/decision-and-control-the-meaning-of-operational-research-and-management-cybernetics.html) |
-| **Brain of the Firm** | 1972 | Introduce el Modelo de Sistema Viable (VSM). | [☁️ Ver en Drive](https://z-lib.sk/book/28257546/dcd27e/brain-of-the-firm.html) |
-| **Designing Freedom** | 1974 | Explora la interacción entre la libertad y los sistemas. | [☁️ Ver en Drive](https://z-lib.sk/book/937793/45995d/designing-freedom.html) |
-| **The Heart of Enterprise** | 1979 | Una exposición más rigurosa y formal del VSM. | [☁️ Ver en Drive](https://z-lib.sk/book/17519928/475ad7/the-heart-of-enterprise.html) |
-| **Diagnosing the System for Organizations** | 1985 | Una guía práctica para aplicar el VSM en organizaciones. | [☁️ Ver en Drive](https://z-lib.sk/book/17227256/932b7f/diagnosing-the-system-for-organizations.html) |
+| **Cybernetics and Management** | 1959 | Introduce la ciencia de la cibernética a los gerentes. | [☁️ Ver en Drive](https://drive.google.com/file/d/1DvW0Y-e2u-NCI82PansecnuKT_Focyeh/view?usp=drive_link) |
+| **Decision and Control** | 1966 | Abarca la investigación de operaciones y la cibernética de gestión. | [☁️ Ver en Drive](https://drive.google.com/file/d/1c6CdHbG2D9fm-LQLZRwPixmR5s2GlG3B/view?usp=drive_link) |
+| **Brain of the Firm** | 1972 | Introduce el Modelo de Sistema Viable (VSM). | [☁️ Ver en Drive](https://drive.google.com/file/d/1AOG2uXXkuyg5R_wNBmcQ20fV-wzpXy9v/view?usp=drive_link) |
+| **Designing Freedom** | 1974 | Explora la interacción entre la libertad y los sistemas. | [☁️ Ver en Drive](https://drive.google.com/file/d/12-IlR7UfdZK1hsMACgxGlwWblLaQUqtD/view?usp=drive_link) |
+| **The Heart of Enterprise** | 1979 | Una exposición más rigurosa y formal del VSM. | [☁️ Ver en Drive](https://drive.google.com/file/d/1W9q5_sNyHy2bqFNFr-WDNZZL8kRrrwLc/view?usp=drive_link) |
+| **Diagnosing the System for Organizations** | 1985 | Una guía práctica para aplicar el VSM en organizaciones. | [☁️ Ver en Drive](https://drive.google.com/file/d/1WU_8kDjZQFfALytcTb95y5r9ndv3HpKw/view?usp=drive_link) |
 | **Beyond Dispute: The Invention of Team Syntegrity** | 1994 | El desarrollo de un protocolo de grupo no jerárquico. | [☁️ Ver en Drive](https://z-lib.sk/book/21003415/bc4fc6/beyond-dispute-the-invention-of-team-syntegrity.html) |
 
 ## Otros Autores Clave
